@@ -1,0 +1,11 @@
+.mainContainer{
+    display: flex;
+    justify-content: space-evenly;
+}
+.midSection{
+    display: flex;
+    gap: 40px;
+}
+.btn{
+    display: flex;
+}
