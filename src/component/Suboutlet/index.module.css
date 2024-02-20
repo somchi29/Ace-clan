@@ -1,0 +1,142 @@
+@import url("https://fonts.cdnfonts.com/css/gilroy-bold");
+.midSections {
+  width: "948px";
+  display: flex;
+  font-size: 48px;
+  align-items: center;
+  flex-direction: column;
+}
+
+.optimize {
+  font-family: "Gilroy-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 96px;
+  text-align: center;
+  letter-spacing: 0em;
+}
+
+.line {
+  display: flex;
+  align-self: center;
+  justify-self: center;
+  margin-top: -50px;
+  height: 19.91px;
+  width: 173.63px;
+}
+
+.personal {
+  font-size: 18px;
+  line-height: 28px;
+  align-self: center;
+}
+
+.butn {
+  display: flex;
+}
+
+.text {
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.boxImage {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 24px;
+  border: 0.5px;
+  gap: 16px;
+  border: rgb(191, 204, 216) 1px solid;
+  padding: 20px 40px 20px 40px;
+  margin-left: -55px;
+  z-index: 5px;
+  background-color: #fefefe;
+}
+
+.mainDiv {
+  display: flex;
+}
+
+.Ellipse {
+  display: flex;
+  align-self: center;
+  width: 956px;
+  height: 49px;
+  margin-top: 951px;
+  gap: 150px;
+  left: 256px;
+}
+
+.onestop {
+  display: flex;
+  size: 40px;
+  line-height: 48px;
+  left: 30px;
+}
+.westop {
+  display: flex;
+  margin: left;
+}
+
+.active {
+  width: Hug (291px);
+  height: Hug (100px);
+  padding: 0px, 4px, 0px, 4px;
+  gap: 72px;
+  flex-direction: column;
+  display: flex;
+  margin: left;
+}
+
+.thirtym {
+  width: Hug (346px);
+  height: Hug (100px);
+  gap: 72px;
+  display: flex;
+  align-self: center;
+  margin-left: 250px;
+  padding: 0px, 4px, 0px, 4px;
+  left: -3px;
+}
+
+.whyscissors {
+  width: Hug (398.1px);
+  height: Hug (256px);
+  gap: 16px;
+  flex-direction: column-reverse;
+}
+
+.why {
+  display: grid;
+  grid-template-rows: (40px, 1fr);
+  display: flex;
+  justify-self: center;
+  align-content: center;
+  text-align: center;
+}
+.price {
+  size: 40px;
+  line-height: 48px;
+  align-self: Center;
+  margin-left: 30px;
+  display: flex;
+}
+.teams {
+  align-items: center;
+  justify-self: center;
+  margin-left: 100px;
+  display: inline;
+}
+.selects {
+  width: Fixed (200px);
+  height: Fixed (48px);
+  top: 918px;
+  margin-left: 620px;
+  padding: 12px, 24px, 12px, 24px;
+  border-radius: 100px;
+  gap: 10px;
+  align-self: center;
+}
